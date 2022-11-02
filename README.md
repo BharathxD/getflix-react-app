@@ -1,6 +1,6 @@
 # Cart App Using React
 
-![App Screenshot] (https://i.postimg.cc/hPXrHyJ2/Screenshot-2022-11-02-at-1-55-07-PM.png)
+![App Screenshot](https://i.postimg.cc/hPXrHyJ2/Screenshot-2022-11-02-at-1-55-07-PM.png)
 
 # Getting Started with Create React App
 
